@@ -1,2 +1,0 @@
-# c-code
-Calculator code

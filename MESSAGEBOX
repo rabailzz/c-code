@@ -1,0 +1,13 @@
+# c-code
+Displaying a message box (using c language in windows code(CODE BLOCKS))
+
+
+#include<windows.h>
+
+int main(){
+
+    MessageBox(0,"Error  401  found  ::  Life   messed  up","Todo", MB_OKCANCEL);
+
+return 0;
+}
+
